@@ -1,0 +1,10 @@
+n=30
+txns=20000
+rd=1-2
+to=1150
+size_txn=1024
+size_tag=100
+tr=1
+k=2
+c=1
+w=1
